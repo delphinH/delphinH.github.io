@@ -2,8 +2,8 @@
 title:               Dougie's Diary
 tagline:             'How I see'
 description:         'Everything I know'
-url:                 https://delphinh.github.io
-baseurl:             https://delphinh.github.io
+url:                 https://delphinh.github.io/
+baseurl:             https://delphinh.github.io/
 paginate:            5
 permalink:           pretty
 
